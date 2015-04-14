@@ -1,4 +1,5 @@
 # Slider
+This is bacically a gist.
 
 Browserified module. See `Slider.coffee`.
 
